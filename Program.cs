@@ -1,9 +1,9 @@
-﻿/*This code is created by Valenzuela, John Oliver for a semestral final group project
+﻿/*This code is created by Valenzuela, John Oliver Valenzueal for a semestral final group project
 together with Briones, Brenn and Escamillas, Gerrylorence
 To be submitted to Mr. Al John Villareal, Instructor |||
 
 STARTED on December 3, 2023
-FINISHED on 
+FINISHED on December 16, 2023
 */
 
 using System;
